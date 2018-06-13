@@ -1,0 +1,90 @@
+ body { 
+color: black;
+font-family:verdana,arial,geneva,arial black;
+font-weight:normal;
+background-color: #ffcf79;
+font-size:25px;
+
+}
+h1 { 
+    color:green;
+    text-decoration: underline;
+    font-size:150%;
+    text-align:center;
+} 
+h2 {
+    color:green;
+    text-decoration: underline;
+    font-size:1.2em;
+    text-align:center;
+}
+h3 {
+    color:green;
+    text-decoration: underline;
+   
+} 
+#para1homepage{
+    color:green;
+    
+}
+  
+p.paragraph
+{
+    
+    font-size: 15px;
+    line-height:1.5em;
+    background-color:#e5e4d7;
+    padding: 20px 20px 20px 20px ;
+    border:black 2px solid;
+    background-image:url(../../vendor/images/clouds.jpeg);
+    border-radius:10px;
+} 
+p.para4{
+    color:black;
+    font-size: 15px;
+    line-height:1.5em;
+    background-color:#e5e4d7;
+    padding: 20px;
+    border-color:black;
+    border-width: 2px;
+    border-style: ridge;
+    margin: 20px;
+    margin-top: 50px;
+    margin-left: 400px;
+} 
+img.imagec{
+    display:block;
+    text-align:center;
+    margin-left: auto;
+    margin-right: auto;
+    background-color:silver;
+    padding: 3px;
+    border-color:black;
+    border-width: 2px;
+    border-style: solid;
+}
+#divmain {
+    color:black;
+}
+#divbass  {
+color:black;
+}
+.divcontent {
+    color:black;
+}
+.highlight{
+    background-color:#ffff00;
+}
+a:link{
+    color:blue;
+}
+a:visited{
+    columns: #8c8c9d;
+}
+a:hover{
+    color:#f15a51;
+}
+
+
+   
+
